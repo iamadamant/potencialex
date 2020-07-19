@@ -32,6 +32,6 @@ $(document).ready(function(){
   //data-toggle="popover"
   $('[data-toggle="popover"]').popover({
     //Установление направления отображения popover
-    placement : 'bottom'
+    placement : 'right'
   });
 });
